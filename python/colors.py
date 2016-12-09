@@ -2,6 +2,7 @@
 
 This module contains some mappings for the ANSI terminal escapes support
 the 16 colors of the Solarized color palette created by Ethan Schoonover.
+Copied from Skilstak.colors
 """
 
 base03  = '\033[1;30m'
